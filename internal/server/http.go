@@ -9,6 +9,7 @@ import (
 
 func NewHTTPServer(addr string) *http.Server {
 	httpsrv := newHTTPServer()
+
 	r := mux.NewRouter()
 
 	r.HandleFunc("/", httpsrv.handleProduce).Methods("POST")

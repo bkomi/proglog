@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/komi/proglog/internal/server"
+	"github.com/bkomi/proglog/internal/server"
 )
 
 func main() {

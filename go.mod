@@ -8,5 +8,7 @@ require (
 	github.com/stretchr/testify v1.7.0 // indirect
 	github.com/tysontate/gommap v0.0.0-20201017170033-6edfc905bae0 // indirect
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
+	google.golang.org/grpc v1.32.0 // indirect
+	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.0.0 // indirect
 	google.golang.org/protobuf v1.26.0
 )

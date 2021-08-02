@@ -31,4 +31,9 @@ Goals When Building a Service
 
 
 - Error handling for gRPC using status
-- golang Context - A Context carries deadlines, cancellation signals, and other request-scoped values across API boundaries and goroutines.
+- golang Context 
+  - A Context carries deadlines, cancellation signals, and other request-scoped values across API boundaries and goroutines.
+  - https://gobyexample.com/context
+
+
+
